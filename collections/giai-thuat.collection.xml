@@ -1,0 +1,3 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10774</md:content-id>  <md:title>Giải thuật</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>f4fdaa24-9e85-4df6-a8f6-0f48caedd211</md:uuid>
+<md:slug>giai-thuat</md:slug>
+</metadata>  <col:content>          <col:module document="m30064"/>                    </col:content></col:collection>
